@@ -1,7 +1,7 @@
 {
   "name": "quran-everywhere",
   "description": "Aplikasi web yang berisi qur'an online, informasi jadwal sholat, kalender, berita islam dan lainnya.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "repository": "git@github.com:lrmn/quran-everywhere.git",
   "author": "Feri Irawan <619cogitoergosum@gmail.com>",
   "license": "MIT",

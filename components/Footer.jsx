@@ -4,7 +4,7 @@ export default function Footer() {
       <footer className="p-3 text-center mb-20">
         <p>
           Dibuat dengan ❤ oleh{' '}
-          <a href="https://lrmn.is-a.fun" target="_blank">
+          <a href="https://lrmn.is-a.dev/" target="_blank">
             L RMN
           </a>{' '}
           {/* untuk Sweet heartnya */}
